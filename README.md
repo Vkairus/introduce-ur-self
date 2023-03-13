@@ -11,7 +11,7 @@
  <table style="width:100%;"align="center"> 
    <tr> 
      <td> 
-      <img src="https://discordapp.com/channels/@me/1084359116362891304/1084850641467363378" alt="Demo" width="300px"/> 
+      <img src="https://cdn.discordapp.com/attachments/1084359116362891304/1084850640980819978/image-26.png" alt="Demo" width="300px"/> 
      </td> 
    </tr> 
  </table> 
