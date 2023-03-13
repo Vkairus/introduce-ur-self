@@ -1,12 +1,12 @@
 # RPC [![GitHub forks](https://img.shields.io/github/forks/Vkairus/introduce-ur-self)](https://github.com/Vkairus/introduce-ur-self/network)
 
-# A simple html code that can create a website to introduce about yourself
+## A simple html code that can create a website to introduce about yourself
 
-# Go into "code gioi thieu" file
+## Go into "code gioi thieu" file
 
-# Change the information in index.html
+## Change the information in index.html
 
-# Demo website
+## Demo website
 
  <table style="width:100%;"align="center"> 
    <tr> 
